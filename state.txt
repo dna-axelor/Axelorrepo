@@ -3,5 +3,3 @@ Arunachal Pradesh
 Assam
 Bihar
 Chhattisgarh
-
-Changed for revert
