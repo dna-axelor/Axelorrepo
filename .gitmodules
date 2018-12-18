@@ -1,0 +1,6 @@
+[submodule "Axelorrepo"]
+	path = Axelorrepo
+	url = https://github.com/dnaaxelor/Axelorrepo.git
+[submodule "Axlorgit"]
+	path = Axlorgit
+	url = https://github.com/dnaaxelor/Axlorgit.git
